@@ -1,6 +1,6 @@
 # Towa
 
-- [Twitch CLI](#Towa)
+- [Towa](#Towa)
   - [About](#about)
   - [Usage](#usage)
   - [Config File](#config-file)
